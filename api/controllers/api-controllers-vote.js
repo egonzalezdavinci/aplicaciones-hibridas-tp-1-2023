@@ -54,13 +54,11 @@ async function createdVotes(req, res){
 export{
     getVotes,
     getViewVotesId,
-    getVotesGames,
     createdVotes
 }
 
 export default {
     getVotes,
     getViewVotesId,
-    getVotesGames,
     createdVotes
 }
